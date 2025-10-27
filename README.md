@@ -1,6 +1,6 @@
 # 🛒 Carrinho de Compras
 
-[**Acesse a aplicação aqui**](https://behnascimentoo.github.io/carrinho-compras/)
+[**Acesse a aplicação aqui**](https://behnascimentoo.github.io/projeto-carrinho_compras/)
 
 ---
 
